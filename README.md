@@ -49,7 +49,8 @@ This will:
 3. Run the server at: `http://localhost:3000`
 4. Run the API contract/documentation at: `http://localhost:3000/swagger`
 
-For local development/test, use this command to init the service:
+For local development/test, **make sure to run mongodb first**. Do not forget to create database named `book`. For docker compose, this step is automated.
+Use this command to init the service:
 
 ```bash
 npm install
@@ -114,7 +115,7 @@ The following commands are useful when working with this repo:
 
 ## Testing Guide
 
-We all love testing.
+We all love testing. Before running the test, **make sure to run mongodb first and put .env DB_URL to localhost**.
 
 ### Unit Tests
 
