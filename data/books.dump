@@ -1,0 +1,68 @@
+{ "_id" : 1, "title" : "Unlocking Android", "isbn" : "1933988673", "numberOfPages" : 416, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 2, "title" : "Android in Action, Second Edition", "isbn" : "1935182722", "numberOfPages" : 592, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 3, "title" : "Specification by Example", "isbn" : "1617290084", "numberOfPages" : 0, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 4, "title" : "Flex 3 in Action", "isbn" : "1933988746", "numberOfPages" : 576, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 5, "title" : "Flex 4 in Action", "isbn" : "1935182420", "numberOfPages" : 600, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 6, "title" : "Collective Intelligence in Action", "isbn" : "1933988312", "numberOfPages" : 425, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 7, "title" : "Zend Framework in Action", "isbn" : "1933988320", "numberOfPages" : 432, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 8, "title" : "Flex on Java", "isbn" : "1933988797", "numberOfPages" : 265, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 9, "title" : "Griffon in Action", "isbn" : "1935182234", "numberOfPages" : 375, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 10, "title" : "OSGi in Depth", "isbn" : "193518217X", "numberOfPages" : 325, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 11, "title" : "Flexible Rails", "isbn" : "1933988509", "numberOfPages" : 592, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 13, "title" : "Hello! Flex 4", "isbn" : "1933988762", "numberOfPages" : 258, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 14, "title" : "Coffeehouse", "isbn" : "1884777384", "numberOfPages" : 316, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 15, "title" : "Team Foundation Server 2008 in Action", "isbn" : "1933988592", "numberOfPages" : 344, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 16, "title" : "Brownfield Application Development in .NET", "isbn" : "1933988711", "numberOfPages" : 550, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 17, "title" : "MongoDB in Action", "isbn" : "1935182870", "numberOfPages" : 0, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 19, "title" : "Jaguar Development with PowerBuilder 7", "isbn" : "1884777864", "numberOfPages" : 550, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 20, "title" : "Taming Jaguar", "isbn" : "1884777686", "numberOfPages" : 362, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 21, "title" : "3D User Interfaces with Java 3D", "isbn" : "1884777902", "numberOfPages" : 520, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 22, "title" : "Hibernate in Action", "isbn" : "193239415X", "numberOfPages" : 400, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 23, "title" : "Hibernate in Action (Chinese Edition)", "numberOfPages" : 400, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 24, "title" : "Java Persistence with Hibernate", "isbn" : "1932394885", "numberOfPages" : 880, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 25, "title" : "JSTL in Action", "isbn" : "1930110529", "numberOfPages" : 480, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 26, "title" : "iBATIS in Action", "isbn" : "1932394826", "numberOfPages" : 384, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 27, "title" : "Designing Hard Software", "isbn" : "133046192", "numberOfPages" : 350, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 28, "title" : "Hibernate Search in Action", "isbn" : "1933988649", "numberOfPages" : 488, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 29, "title" : "jQuery in Action", "isbn" : "1933988355", "numberOfPages" : 376, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 30, "title" : "jQuery in Action, Second Edition", "isbn" : "1935182323", "numberOfPages" : 488, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 31, "title" : "Building Secure and Reliable Network Applications", "isbn" : "1884777295", "numberOfPages" : 591, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 32, "title" : "Ruby for Rails", "isbn" : "1932394699", "numberOfPages" : 532, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 33, "title" : "The Well-Grounded Rubyist", "isbn" : "1933988657", "numberOfPages" : 520, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 35, "title" : "Website Owner's Manual", "isbn" : "1933988452", "numberOfPages" : 296, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 36, "title" : "ASP.NET 4.0 in Practice", "isbn" : "1935182463", "numberOfPages" : 504, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 37, "title" : "Hello! Python", "isbn" : "1935182080", "numberOfPages" : 350, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 38, "title" : "PFC Programmer's Reference Manual", "isbn" : "1884777554", "numberOfPages" : 368, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 39, "title" : "Graphics File Formats", "isbn" : "133034054", "numberOfPages" : 484, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 40, "title" : "Visual Object Oriented Programming", "isbn" : "131723979", "numberOfPages" : 280, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 41, "title" : "iOS in Practice", "isbn" : "1617291269", "numberOfPages" : 325, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 42, "title" : "iPhone in Action", "isbn" : "193398886X", "numberOfPages" : 472, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 43, "title" : "Silverlight 2 in Action", "isbn" : "1933988428", "numberOfPages" : 400, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 45, "title" : "The Quick Python Book, Second Edition", "isbn" : "193518220X", "numberOfPages" : 360, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 46, "title" : "Internet and Intranet Applications with PowerBuilder 6", "isbn" : "1884777600", "numberOfPages" : 390, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 48, "title" : "Practical Methods for Your Year 2000 Problem", "isbn" : "188477752X", "numberOfPages" : 236, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 51, "title" : "Mobile Agents", "isbn" : "1884777368", "numberOfPages" : 320, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 52, "title" : "Spring Dynamic Modules in Action", "isbn" : "1935182307", "numberOfPages" : 450, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 53, "title" : "SQL Server 2008 Administration in Action", "isbn" : "193398872X", "numberOfPages" : 468, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 54, "title" : "Android in Practice", "isbn" : "1935182927", "numberOfPages" : 500, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 55, "title" : "Object Oriented Perl", "isbn" : "1884777791", "numberOfPages" : 512, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 56, "title" : "GWT in Practice", "isbn" : "1933988290", "numberOfPages" : 376, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 59, "title" : "Ajax in Action", "isbn" : "1932394613", "numberOfPages" : 680, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 60, "title" : "Ajax in Practice", "isbn" : "1932394990", "numberOfPages" : 536, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 61, "title" : "Prototype and Scriptaculous in Action", "isbn" : "1933988037", "numberOfPages" : 544, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 63, "title" : "POJOs in Action", "isbn" : "1932394583", "numberOfPages" : 592, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 64, "title" : "Data Munging with Perl", "isbn" : "1930110006", "numberOfPages" : 304, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 65, "title" : "Hello! HTML5 & CSS3", "isbn" : "1935182897", "numberOfPages" : 325, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 66, "title" : "Seam in Action", "isbn" : "1933988401", "numberOfPages" : 624, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 67, "title" : "Wicket in Action", "isbn" : "1932394982", "numberOfPages" : 392, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 68, "title" : "Open Source SOA", "isbn" : "1933988541", "numberOfPages" : 448, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 69, "title" : "Struts 2 in Action", "isbn" : "193398807X", "numberOfPages" : 432, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 70, "title" : "Essential Guide to Peoplesoft Development and Customization", "isbn" : "1884777929", "numberOfPages" : 1101, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 71, "title" : ".NET Multithreading", "isbn" : "1930110545", "numberOfPages" : 360, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 72, "title" : "SCWCD Exam Study Kit Second Edition", "isbn" : "1932394389", "numberOfPages" : 560, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 73, "title" : "Spring Roo in Action", "isbn" : "193518296X", "numberOfPages" : 500, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 74, "title" : "SOA Governance in Action", "isbn" : "1617290270", "numberOfPages" : 0, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 75, "title" : "RSS and Atom in Action", "isbn" : "1932394494", "numberOfPages" : 400, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 76, "title" : "LDAP Programming, Management and Integration", "isbn" : "1930110405", "numberOfPages" : 352, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 77, "title" : "Mule in Action", "isbn" : "1933988967", "numberOfPages" : 432, "publishedOn": 2019, "author": "dummy author name" }
+{ "_id" : 79, "title" : "Java Foundation Classes", "isbn" : "1884777678", "numberOfPages" : 1088, "publishedOn": 2019, "author": "dummy author name" }

@@ -1,0 +1,2 @@
+mongoimport --mode upsert --host ${DB_HOST} --db ${DB} --collection ${COLLECTION} --type json --file /data/books.dump
+mongoimport --mode upsert --host ${DB_HOST} --db ${DB} --collection ${COUNTER_COLLECTION} --type json --file /data/counters.dump
